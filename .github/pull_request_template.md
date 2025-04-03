@@ -1,8 +1,3 @@
----
-title: "[Commit Type] PR Title"
-
----
-
 <!--- 
 If possible, try to create a PR title based on the conventional commits standard.
 The format of the title should adhere to the following patern: [<type> #<optional issue or task number>] <pr title>
